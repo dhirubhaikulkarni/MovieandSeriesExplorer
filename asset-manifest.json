@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/MovieandSeriesExplorer/static/css/main.30619c4c.css",
+    "main.js": "/MovieandSeriesExplorer/static/js/main.c602f94e.js",
+    "static/media/Race3.jpg": "/MovieandSeriesExplorer/static/media/Race3.8805fc792601b6b68028.jpg",
+    "static/media/Raazi.jpg": "/MovieandSeriesExplorer/static/media/Raazi.56922ce91b183df251d8.jpg",
+    "static/media/FamilyMan.jpg": "/MovieandSeriesExplorer/static/media/FamilyMan.c01cfb0068cc32c764e3.jpg",
+    "static/media/Sacm2003.jpg": "/MovieandSeriesExplorer/static/media/Sacm2003.6923c39bd10c1fae1ade.jpg",
+    "static/media/SacredGames.jpg": "/MovieandSeriesExplorer/static/media/SacredGames.4090ddca43bf50cc4dcd.jpg",
+    "static/media/Aashiqui 2.jpg": "/MovieandSeriesExplorer/static/media/Aashiqui 2.4a64c73fb3ceb5bc80dd.jpg",
+    "static/media/1962.jpg": "/MovieandSeriesExplorer/static/media/1962.9494478b88c6d31572ee.jpg",
+    "static/media/railwayman.jpg": "/MovieandSeriesExplorer/static/media/railwayman.75b1f341af63579a20fa.jpg",
+    "static/media/HeraPheri.jpg": "/MovieandSeriesExplorer/static/media/HeraPheri.2779524255034807fd7d.jpg",
+    "static/media/platform.jpg": "/MovieandSeriesExplorer/static/media/platform.9cb310362ae96f2ba75f.jpg",
+    "static/media/sacm.jpg": "/MovieandSeriesExplorer/static/media/sacm.01d2c1e7b353b205eeeb.jpg",
+    "static/media/SitaRamam.jpg": "/MovieandSeriesExplorer/static/media/SitaRamam.e0cb50e0e933f70b7405.jpg",
+    "static/media/RRR.jpg": "/MovieandSeriesExplorer/static/media/RRR.dbee0a8bf6f0680df26d.jpg",
+    "static/media/KGF.jpg": "/MovieandSeriesExplorer/static/media/KGF.00b56e127f6d82690ee3.jpg",
+    "static/media/Aarya.jpg": "/MovieandSeriesExplorer/static/media/Aarya.ee74744a382889230930.jpg",
+    "static/media/Tiger3.jpg": "/MovieandSeriesExplorer/static/media/Tiger3.de64511caba1631bcbe9.jpg",
+    "index.html": "/MovieandSeriesExplorer/index.html",
+    "main.30619c4c.css.map": "/MovieandSeriesExplorer/static/css/main.30619c4c.css.map",
+    "main.c602f94e.js.map": "/MovieandSeriesExplorer/static/js/main.c602f94e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30619c4c.css",
+    "static/js/main.c602f94e.js"
+  ]
+}
