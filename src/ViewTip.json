@@ -1,0 +1,163 @@
+[
+    {
+        "MovieName": "Race 3",
+        "Details": "Good Movie",
+        "Director": "D K Nandan",
+        "ReleaseDate": "08/06/23 02:02 PM",
+        "type":"Movie",
+        "url":"Race",
+        "category":"action"
+     
+    },
+    {
+        "MovieName": "Razi",
+        "Details": "Thirller Movie",
+        "Director": "Nitin Menon",
+        "ReleaseDate": "08/06/21 02:02 PM",
+        "type":"Movie",
+        "url":"Razi",
+        "category":"thriller"
+     
+    },
+    {
+        "MovieName": "RRR",
+        "Details": "South Indian Movie",
+        "Director": "D K Suresh",
+        "ReleaseDate": "08/01/24 02:02 PM",
+        "type":"Movie",
+        "url":"RRR",
+        "category":"action"
+     
+    },
+    {
+        "MovieName": "KGF 2",
+        "Details": "Block Blaster Movie",
+        "Director": "Vikas Chandela",
+        "ReleaseDate": "07/09/23 02:19 PM",
+        "type":"Movie",
+        "url":"KGF",
+        "category":"action"
+       
+    },
+    {
+        "MovieName": "Tiger 3",
+        "Details": "Action thriller",
+        "Director": "Akshay Khanna",
+        "ReleaseDate": "27/07/23 02:19 PM",
+        "type":"Movie",
+        "url":"Tiger3",
+        "category":"action"
+       
+    },
+    {
+        "MovieName": "Hera Pheri",
+        "Details": "Comedy Movie",
+        "Director": "Nitin Menon",
+        "ReleaseDate": "19/09/21 02:02 PM",
+        "type":"Movie",
+        "url":"HeraPheri",
+        "category":"comedy"
+     
+    },
+    {
+        "MovieName": "Sita Ramam",
+        "Details": "Love with Suspense Movie",
+        "Director": "Nitish Kumar",
+        "ReleaseDate": "08/02/21 02:02 PM",
+        "type":"Movie",
+        "url":"SitaRamam",
+        "category":"love"
+     
+    },
+    {
+        "MovieName": "Aashiqui 2",
+        "Details": "Love",
+        "Director": "Nitish Patel",
+        "ReleaseDate": "03/03/21 02:02 PM",
+        "type":"Movie",
+        "url":"Ashiqui",
+        "category":"love"
+     
+    },
+    {
+        "MovieName": "Telgi 2003",
+        "Details": "Stock Market Related Scam",
+        "Director": "Vikash Vohra",
+        "ReleaseDate": "27/07/21 02:19 PM",
+        "type":"Series",
+        "url":"Telgi",
+        "category":"suspense"
+       
+    },
+    {
+        "MovieName": "Scam 1992",
+        "Details": "SBI Fraud for Stock Market",
+        "Director": "Amit Shetty",
+        "ReleaseDate": "27/07/19 02:19 PM",
+        "type":"Series",
+        "url":"Sacm1992",
+        "category":"suspense"
+       
+    },
+    {
+        "MovieName": "Family Man",
+        "Details": "Great Series",
+        "Director": "Vikas Khandola",
+        "ReleaseDate": "10/03/23 02:19 PM",
+        "type":"Series",
+        "url":"FamilyMan",
+        "category":"suspense"
+       
+    },
+    {
+        "MovieName": "Aarya",
+        "Details": "Greta Drama",
+        "Director": "Ram Madhvani",
+        "ReleaseDate": "27/07/20 02:19 PM",
+        "type":"Series",
+        "url":"Aarya",
+        "category":"thriller"
+       
+    },
+    {
+        "MovieName": "Sacred Games",
+        "Details": "Great Thriller",
+        "Director": "Vikram Chandra",
+        "ReleaseDate": "05/07/22 02:19 PM",
+        "type":"Series",
+        "url":"SacredGames",
+        "category":"suspense"
+       
+    },
+    {
+        "MovieName": "The Railway Men",
+        "Details": "Unspeakable disaster",
+        "Director": "Vikram Jit Singh",
+        "ReleaseDate": "05/07/22 02:19 PM",
+        "type":"Series",
+        "url":"Railway",
+        "category":"action"
+       
+    },
+    {
+        "MovieName": "The Platform",
+        "Details": "fact-finding",
+        "Director": "Rodrigo Kirchner",
+        "ReleaseDate": "05/10/22 02:19 PM",
+        "type":"Series",
+        "url":"Platform",
+        "category":"suspense"
+       
+    },
+    {
+        "MovieName": "The War in the Hills",
+        "Details": "War drama",
+        "Director": "Vikram Kumar",
+        "ReleaseDate": "05/07/22 02:19 PM",
+        "type":"Series",
+        "url":"Hills",
+        "category":"action"
+       
+    }
+
+]
