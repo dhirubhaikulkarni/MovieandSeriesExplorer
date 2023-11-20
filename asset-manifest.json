@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MovieandSeriesExplorer/static/css/main.30619c4c.css",
-    "main.js": "/MovieandSeriesExplorer/static/js/main.bcbb7249.js",
+    "main.js": "/MovieandSeriesExplorer/static/js/main.f0389e1e.js",
     "static/media/Race3.jpg": "/MovieandSeriesExplorer/static/media/Race3.8805fc792601b6b68028.jpg",
     "static/media/Raazi.jpg": "/MovieandSeriesExplorer/static/media/Raazi.56922ce91b183df251d8.jpg",
     "static/media/FamilyMan.jpg": "/MovieandSeriesExplorer/static/media/FamilyMan.c01cfb0068cc32c764e3.jpg",
@@ -20,10 +20,10 @@
     "static/media/Tiger3.jpg": "/MovieandSeriesExplorer/static/media/Tiger3.de64511caba1631bcbe9.jpg",
     "index.html": "/MovieandSeriesExplorer/index.html",
     "main.30619c4c.css.map": "/MovieandSeriesExplorer/static/css/main.30619c4c.css.map",
-    "main.bcbb7249.js.map": "/MovieandSeriesExplorer/static/js/main.bcbb7249.js.map"
+    "main.f0389e1e.js.map": "/MovieandSeriesExplorer/static/js/main.f0389e1e.js.map"
   },
   "entrypoints": [
     "static/css/main.30619c4c.css",
-    "static/js/main.bcbb7249.js"
+    "static/js/main.f0389e1e.js"
   ]
 }
